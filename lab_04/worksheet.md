@@ -1,6 +1,6 @@
 # ใบงาน Lab04 (รายงาน 1–2 หน้า)
 
-ชื่อ นายนฤเบศ หนูเจริญ รหัสนักศึกษา 6752500347 วันที่ ______ code version/hash: student_hormone.py SHA256 `cb5962b0ff5108e6987c111bb7b75ef1a09640639d2b3a62faf3de755ed37e4d` (Python 3.13.7)
+ชื่อ นายนฤเบศ หนูเจริญ รหัสนักศึกษา 6752500347 code version/hash: student_hormone.py SHA256 `cb5962b0ff5108e6987c111bb7b75ef1a09640639d2b3a62faf3de755ed37e4d` (Python 3.13.7)
 
 ## A. ก่อนรัน (10 นาที)
 
